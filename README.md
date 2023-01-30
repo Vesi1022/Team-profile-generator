@@ -18,3 +18,6 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated. 
+https://vesi1022.github.io/Team-profile-generator/
+
+![image](https://user-images.githubusercontent.com/109995670/215364699-a0f5b98d-d94c-4d44-85c1-02eef559fe0b.png)
